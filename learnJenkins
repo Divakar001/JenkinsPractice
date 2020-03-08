@@ -2,6 +2,7 @@ public class LearnJenkins {
 
 	public static void main(String[] args) {
 	System.out.println("Learning jenkins through github");
+	System.out.println("yes its working fine");
 
 			}
 
